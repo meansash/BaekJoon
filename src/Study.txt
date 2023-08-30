@@ -8,4 +8,7 @@ wordCompare
 
 08.29
 
+입력 받을때 스페이스바를 기준으로 입력 받을 시에는
+reader.readLine().split(" ");
+
 
