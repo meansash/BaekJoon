@@ -1,0 +1,13 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ΝƒτΪόÿÿÿÿ8υμ€ώ¥1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®ϊΐΡ8υμ€ώ¥1
+‰
+java:S1130	"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ϋΏΨ8ϊμ€ώ¥1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ΉΠ»8όμ€ώ¥1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ΰφί°ωÿÿÿÿ8£ώ¥1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ΧΉ‹υϊÿÿÿÿ8£ώ¥1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Δ€¬Ί8Ύχώ¥1
+P
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€ι²Ε8όμ€ώ¥1
+S
+java:S1128"6Remove this unused import 'java.io.InputStreamReader'.(γΞΙ8όμ€ώ¥1
