@@ -1,0 +1,12 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ΟΏΑψÿÿÿÿ8ύ©ώς¦1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®ϊΐΡ8κερς¦1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®ύαλϋÿÿÿÿ8σερς¦1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(—®‹8ªώς¦1
+8
+java:S3626"Remove this redundant jump.(ϋΑέ…8ªώς¦1
+y
+java:S2234!"WParameters to hanoi have the same names but not the same order as the method arguments.(Κÿ€υόÿÿÿÿ8ªώς¦1
+y
+java:S2234#"WParameters to hanoi have the same names but not the same order as the method arguments.(ύμούÿÿÿÿ8ªώς¦1
+T	java:S106)"9Replace this use of System.out or System.err by a logger.(Μς΅U8‘ªώς¦1

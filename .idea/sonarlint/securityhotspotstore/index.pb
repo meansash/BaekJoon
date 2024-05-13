@@ -35,3 +35,9 @@ K
 src/InOut/_11654_ASCII.java,0/2/02d4a92340eaf91f27e75769a1603d0b2b6f9ac0
 N
 src/InOut/_1152_wordCount.java,6/f/6f7cd182e1c8f643f62e53c9dd21a0f95c467cd5
+O
+src/InOut/_10872_factorial.java,7/3/732f959d5de0bed6de3d22f4aae96ebbae34a1ec
+J
+src/InOut/_1914_Hanoi.java,4/d/4d98a8e3ffcc92e2384b6561a2127b754907ea8c
+S
+#src/DataStructure/_10828_Stack.java,b/e/beb680e52e475651029acf85f76b4595e781d26a
