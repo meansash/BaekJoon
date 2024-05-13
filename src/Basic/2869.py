@@ -1,11 +1,8 @@
-a,b,v = map(int,input().split())
-v = float(v)
-dayCount = 0
-init_distance = a - b
-temp_distance = 0
-while True:
-    temp_distance += init_distance
-    dayCount += 1
-    if temp_distance >= v:
-        break
+a,b,v = map(float,input().split())
+dayCount = (v-b) / (a-b)
+if dayCount != int(dayCount):
+    dayCount = int(dayCount) + 1
+else:
+    dayCount = int(dayCount)
+
 print(dayCount)
