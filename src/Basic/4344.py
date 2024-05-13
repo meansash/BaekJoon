@@ -1,0 +1,1 @@
+testcase = int(input())
